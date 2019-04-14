@@ -34,6 +34,7 @@
 		DC63869D225CC9A500D76615 /* Explosion.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Explosion.sks; sourceTree = "<group>"; };
 		DC63869E225CC9A500D76615 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DC873016225D43C10072380E /* MagicEffect.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MagicEffect.sks; sourceTree = "<group>"; };
+		DCC4A2A9226362A0005D67DB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,6 +51,7 @@
 		DC638675225CA5A400D76615 = {
 			isa = PBXGroup;
 			children = (
+				DCC4A2A9226362A0005D67DB /* README.md */,
 				DC638680225CA5A400D76615 /* ShootingGallery */,
 				DC63867F225CA5A400D76615 /* Products */,
 			);
